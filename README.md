@@ -3,11 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliifilqodri" alt="aliifilqodri" /></a> </p>
 
-- 🔭 Currently I am studying at Telkom Malang Vocational School [-](-)
-
 - 👯 I'm in figma, take a look [Aliip Project](https://www.figma.com/file/Vaao0BUOssFB6Ap0sIy5Me/Alip-Project?type=design&node-id=158-34&mode=design&t=6dOdq660muo9ft3J-0)
-
-- 🤝 I’m looking for help with [-](-)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
